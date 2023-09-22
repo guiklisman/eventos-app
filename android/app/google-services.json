@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "746269445599",
+    "project_id": "eventos-b5521",
+    "storage_bucket": "eventos-b5521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746269445599:android:d454de1e6c883e0435486a",
+        "android_client_info": {
+          "package_name": "klisman.com.evento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746269445599-pkdr39uju8626bd6ob5srmmje4vpmfub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDpnGYUapkEYDtR3lO-tYvvliVVyZogig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746269445599-pkdr39uju8626bd6ob5srmmje4vpmfub.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "746269445599-arvar1cb3fds7seockj8iig51mdik9n7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.klisman.eventos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
